@@ -1,1 +1,1 @@
-KERNEL == "/dev/TIME" MODE="0777"
+KERNEL == "TIME" MODE="0777"
