@@ -4,6 +4,7 @@
 #include <linux/cdev.h>
 #include <linux/uaccess.h>
 #include <linux/ioctl.h>
+#include <linux/fs.h>
 #include "set_time.h"
 
 #define DEVICE_NAME "TIME"// Имя создаваемого устройства, расположенного в /dev/
